@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\VotingConsole\obj\Debug\net6.0\VotingConsole.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\VotingConsole\obj\Debug\net6.0\VotingConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\VotingConsole\obj\Debug\net6.0\VotingConsole.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\VotingConsole\obj\Debug\net6.0\VotingConsole.AssemblyInfo.cs
+C:\Users\user\Desktop\VotingConsole\obj\Debug\net6.0\VotingConsole.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VotingConsole\bin\Debug\net6.0\VotingConsole.exe
+C:\Users\user\Desktop\VotingConsole\bin\Debug\net6.0\VotingConsole.deps.json
+C:\Users\user\Desktop\VotingConsole\bin\Debug\net6.0\VotingConsole.runtimeconfig.json
+C:\Users\user\Desktop\VotingConsole\bin\Debug\net6.0\VotingConsole.dll
+C:\Users\user\Desktop\VotingConsole\bin\Debug\net6.0\VotingConsole.pdb
+C:\Users\user\Desktop\VotingConsole\obj\Debug\net6.0\VotingConsole.dll
+C:\Users\user\Desktop\VotingConsole\obj\Debug\net6.0\refint\VotingConsole.dll
+C:\Users\user\Desktop\VotingConsole\obj\Debug\net6.0\VotingConsole.pdb
+C:\Users\user\Desktop\VotingConsole\obj\Debug\net6.0\VotingConsole.genruntimeconfig.cache
+C:\Users\user\Desktop\VotingConsole\obj\Debug\net6.0\ref\VotingConsole.dll
